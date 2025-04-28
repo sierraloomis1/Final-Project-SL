@@ -1,2 +1,2 @@
 # Final-Project-SL
-Repository for final project
+This is a repository for the ESPM 288 final project
